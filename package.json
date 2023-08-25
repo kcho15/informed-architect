@@ -1,0 +1,26 @@
+{
+  "name": "informed-architect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "autoprefixer": "^10.4.14",
+    "ejs": "^3.1.9",
+    "eslint": "^8.46.0",
+    "express": "^4.18.2",
+    "jquery": "^3.7.0",
+    "lint": "^0.8.19",
+    "nodemon": "^3.0.1",
+    "postcss": "^8.4.27",
+    "sass": "^1.65.1",
+    "tailwindcss": "^3.3.3"
+  }
+}
